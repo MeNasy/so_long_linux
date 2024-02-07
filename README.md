@@ -2,7 +2,7 @@
 
 So_long is a project from 42 school that introduces us to the development of 2D games and graphical interfaces using the C programming language. The objective of the game is to collect all the coins on a map and reach the exit door.
 
-![Screenshot of the game]((https://github.com/MeNasy/so_long_linux/issues/1#issue-2123498410))
+![Game View](https://github.com/MeNasy/so_long_linux/issues/1#issue-2123498410)
 
 ## Installation
 
