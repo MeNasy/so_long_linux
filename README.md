@@ -2,7 +2,7 @@
 
 So_long is a project from 42 school that introduces us to the development of 2D games and graphical interfaces using the C programming language. The objective of the game is to collect all the coins on a map and reach the exit door.
 
-![Screenshot of the game](screenshot.xpm)
+![Screenshot of the game]((https://github.com/MeNasy/so_long_linux/issues/1#issue-2123498410))
 
 ## Installation
 
@@ -102,5 +102,4 @@ You can also customize the program. You can display your own images on the scree
 - Name your .xpm files like the files in the so_long_linux/textures directory: player, wall, coin, and empty. The program will not work if the names are not the same.
 - After the naming process, remove the files in the textures folder and place your own .xpm files.
 - After running the code, the images you uploaded will be on the screen.
-- ![Proje Ekran Görüntüsü](https://github.com/MeNasy/so_long_linux/issues/1#issue-2123498410)
 
