@@ -102,3 +102,5 @@ You can also customize the program. You can display your own images on the scree
 - Name your .xpm files like the files in the so_long_linux/textures directory: player, wall, coin, and empty. The program will not work if the names are not the same.
 - After the naming process, remove the files in the textures folder and place your own .xpm files.
 - After running the code, the images you uploaded will be on the screen.
+- ![Proje Ekran Görüntüsü](https://github.com/MeNasy/so_long_linux/issues/1#issue-2123498410)
+
