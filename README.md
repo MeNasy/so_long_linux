@@ -1,14 +1,3 @@
-Hello, this is Copilot. I can help you with editing your README.md file to make it look like the one in the image. 😊
-
-Based on the image description, the README.md file in the image is for a project called "Minitalk", which is a simple chat program that uses UNIX signals. It has the following sections:
-
-- **Introduction:** A brief overview of the project and its objectives.
-- **Installation:** A step-by-step guide on how to clone the project from GitHub and compile it using Makefile.
-- **Usage:** A detailed explanation on how to run the program and communicate between two processes using signals.
-- **Bonus:** A description of the optional features that were implemented, such as encryption and color.
-
-You can use a similar structure for your README.md file for your "So_long" project, which is a 2D game that uses the C programming language and the MiniLibX library. You can also use Markdown syntax to format your text, add code blocks, and insert images. Here is an example of how your README.md file could look like:
-
 # So_long
 
 So_long is a project from 42 school that introduces us to the development of 2D games and graphical interfaces using the C programming language. The objective of the game is to collect all the coins on a map and reach the exit door.
